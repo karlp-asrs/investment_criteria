@@ -7,12 +7,7 @@ output:
     keep_md: TRUE
 ---
 
-```{r setup, include=FALSE, warning=FALSE, message=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(asrsMethods)
-library(zoo)
-library(lubridate)
-```
+
 
 ## ASRS Investment Criteria
 
