@@ -2,9 +2,8 @@
 title: "Investment Criteria"
 author: "Karl Polen"
 date: "March 2, 2019"
-output: 
-  html_document:
-    keep_md: TRUE
+output: github_document
+    
 ---
 
 ```{r setup, include=FALSE, warning=FALSE, message=FALSE}
@@ -47,7 +46,7 @@ Costs are incredibly important to ASRS.  Since our overall target is to produce 
 
 That said, minimizing costs is not the objective function -- earning positive excess returns with reasonable risk charactistics is what we are after.  We evaluate costs as investments in talent and necessary expertise.  And like any other investment, these costs need to bring an appropriate return.
 
-We evaluate cost in terms of "cost effectiveness" which simply is the ratio of gross excess return (gross return of an investment minus its hurdle or benchmark) divided by the aggregate fees paid to achieve that return.  Our target on fee effectiveness on an expected return basis is 2:1.  In other words, if an investment produces a gross excess return of \$3, we don't want to pay more than \$1 in aggregate fees to a sponsor.  On a realized basis, I'd say we can live with a ratio of 1:1, but if a sponsor is taking more than half the excess returns in fees we would consider that strategy a failure and discontinue it.
+We evaluate cost in terms of "cost effectiveness" which simply is the ratio of excess return (net return of an investment after fees minus its hurdle or benchmark) divided by the aggregate fees paid to achieve that return.  Our target on fee effectiveness on an expected return basis is 2:1.  In other words, if an investment produces a gross excess return of \$3, we don't want to pay more than \$1 in aggregate fees to a sponsor.  On a realized basis, I'd say we can live with a ratio of 1:1, but if a sponsor is taking more than half the excess returns in fees we would consider that strategy a failure and discontinue it.
 
 A suite of tools for analyzing cost in private equity structures is found at this post  <https://karlp-asrs.github.io/waterfallqd/>
 

@@ -1,4 +1,3 @@
-
 Investment Criteria
 ================
 Karl Polen
@@ -60,5 +59,3 @@ Conclusion
 ----------
 
 This approach has served us well. While being demanding, it is flexible enough that we have successfully implemented partnerships with investment managers of the highest quality who have delivered superior results for us. Over the last 10 years, we have added over $4 billion in asset value to the ASRS trust compared to what would have been the case with benchmark return. The performance of ASRS over the last 1, 3, 5 and 10 year periods are all in the top decile of public pension plans.
-
-
